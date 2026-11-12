@@ -4,7 +4,7 @@ A relational blog backend built from scratch in **Django** demonstrating all thr
 
 ---
 
-## 🎯 Objectives Achieved
+## Objectives Achieved
 
 - [x] Bootstrapped a Django project (`core`) and blog application (`blog`) inside an isolated virtual environment.
 - [x] Designed and implemented models covering all three relational database paradigms:
@@ -16,7 +16,7 @@ A relational blog backend built from scratch in **Django** demonstrating all thr
 
 ---
 
-## 🗂️ Database Schema Overview
+## Database Schema Overview
 
 | Model | Relationship Type | Target Model | Description |
 | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ A relational blog backend built from scratch in **Django** demonstrating all thr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 django_blog_project/
@@ -46,7 +46,7 @@ django_blog_project/
 ├── db.sqlite3              # Migrated SQLite database
 ├── manage.py
 └── README.md
-
+```
 ## 📸  Screenshots
 
 ### 1. Django Admin Authentication
